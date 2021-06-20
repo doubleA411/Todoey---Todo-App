@@ -1,4 +1,4 @@
-# todoey_flutter
+# Todoey-Todo App
 
 A new Flutter project.
 
